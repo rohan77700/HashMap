@@ -39,6 +39,7 @@
 
 ## Output
 
+```bash
 Length: 13
 Has 'carrot'? true
 Get 'moon': silver
